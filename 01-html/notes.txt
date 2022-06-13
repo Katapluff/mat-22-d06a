@@ -1,7 +1,7 @@
 HTML TAG 1
 
 Was brauchen wir zum programmieren?
-- Text editor, Visual Studio Code. (extensions, prettier und live-server)
+- Text editor, Visual Studio Code. (extensions: prettier, live-server und Mithril Emmet)
 - Browser, Google Chrome. (Um unseren HTML darzustellen, Dev Tool oder entwickler tool) 
     
 ---
