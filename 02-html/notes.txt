@@ -1,0 +1,10 @@
+Visual Studio Code Shortcuts
+
+Windows:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+Linux:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+Mac:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
