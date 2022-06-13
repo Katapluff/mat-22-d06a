@@ -15,7 +15,7 @@ Erfunden 1989 von Tim Berners-Lee im CERN (http, html, url)
 Was ist eine Website?
 
 Eine website, webseite, homepage, internet seite 
-ist ein Dokument mit infornmationen der online bereit gestellt würd im html oder text format.
+ist ein Dokument mit informationen der online bereit gestellt würd im html oder text format.
 Es ist unter eine url zu finden.
 
 ---
@@ -44,5 +44,5 @@ Die dokumentation:
     https://developer.mozilla.org/de/docs/Web/HTML
 
 - Kurs Content auf Github:
-    https://github.com/gael-src/mat-22-d03a
+    https://github.com/gael-src/mat-22-d06a
 
