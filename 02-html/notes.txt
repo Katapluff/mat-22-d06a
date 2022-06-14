@@ -53,9 +53,12 @@ Validator:
 Die dokumentation:
 - w3school
     https://www.w3schools.com/html/
-
+    
 - mdn (mozilla developer network)
     https://developer.mozilla.org/de/docs/Web/HTML
 
 - Kurs Content auf Github:
     https://github.com/gael-src/mat-22-d06a
+
+- Google image advanced:
+    https://www.google.de/advanced_image_search
