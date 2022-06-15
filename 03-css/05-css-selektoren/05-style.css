@@ -1,0 +1,39 @@
+/* Tag Selektor: */
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+/* ID Selektor: */
+#dark-heading {
+  color: red;
+}
+
+#bold-text {
+  font-weight: bold;
+  color: green;
+}
+
+#italic-text {
+  font-style: italic;
+}
+
+/* CLASS Selektor: */
+.bright-text {
+  color: grey;
+}
+
+.large-secondary-heading {
+  font-size: 40px;
+}
+
+.warning-text {
+  color: red;
+}
