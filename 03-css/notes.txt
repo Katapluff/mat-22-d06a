@@ -21,7 +21,7 @@ Es gibt 3 wege wie wir CSS zu Benutzen können:
 - Inline CSS 
     (Im tag element mit dem style attribut)
 - Interne CSS 
-    (CSS muss dann in einem style tag geshcrieben werden, 
+    (CSS muss dann in einem style tag geschrieben werden, 
     und diesen style tag mus innerhalb von denn head tag, nicht im body)
 - Externe CSS 
     (Würd als externe css file gespeichert "zb: style.css", 
