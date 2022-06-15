@@ -16,7 +16,7 @@ Conference von Håkon Wium Lie
 
 2 - CSS Benutzen
 
-Es gibt 3 wege wie wir CSS Benutzen kann:
+Es gibt 3 wege wie wir CSS zu Benutzen können:
 
 - Inline CSS 
     (Im tag element mit dem style attribut)
